@@ -9,27 +9,27 @@ Proposal for Data Investigation:
 Read the data from CSV in the form of DataFrames Join two tables by DataFrame join Look for the missing values, shape, and size of DataFrame, Important columns, and Summary of each column If it's imputable, impute the missing values Use only the required columns for analysis to gain on Data Computation Truncate DataFrame to the period which we are analyzing Aggregate the data on portions wherever required Summarize the overall DataFrame and the truncated data frames to analyze, observe and extract features Use correlation for feature extraction Use plots wherever required for analysis
 
 # TO DO
-. Aggregate runs scored by each team per match & distribution of average runs by team scored per match
-. Aggregate total team runs conceded per match and distribution of average runs team conceded per match
-. Aggregate total wickets taken by the team and distribution of average wickets taken per match
-. Aggregate total wickets lost by the team and distribution of average wickets lost per match
-. Toss Analysis
-. Number of wins for each team per season
-. The most successful team of IPL
-. Most valuable player
-. Total runs scored across seasons.
-. Toss Decision across seasons (bar chart)
-. Matches won as Toss winners (bar chart)
-. Toss Decision per Team (field/bat)
-. Hard-hitting Ability – Hard hitters in a team (time range filtering for the past 3 years)
-. Player consistency-Batsman
-. Wicket-taking ability
-. Strike Rate
-. Bowler economy
-. Bowler Consistency
-. Overall batsman performance (weighted factor method)-best-performing batsman
-. Overall bowler performance (weighted factor method)-best-performing bowlers
-. City which hosted the maximum number of matches
-. Which team played the maximum number of IPL Matches so far?
-. Matches Won - Batting First vs Bowling First (pie chart)
-. The probability of winning based on the toss decision
+- Aggregate runs scored by each team per match & distribution of average runs by team scored per match
+- Aggregate total team runs conceded per match and distribution of average runs team conceded per match
+- Aggregate total wickets taken by the team and distribution of average wickets taken per match
+- Aggregate total wickets lost by the team and distribution of average wickets lost per match
+- Toss Analysis
+- Number of wins for each team per season
+- The most successful team of IPL
+- Most valuable player
+- Total runs scored across seasons.
+- Toss Decision across seasons (bar chart)
+- Matches won as Toss winners (bar chart)
+- Toss Decision per Team (field/bat)
+- Hard-hitting Ability – Hard hitters in a team (time range filtering for the past 3 years)
+- Player consistency-Batsman
+- Wicket-taking ability
+- Strike Rate
+- Bowler economy
+- Bowler Consistency
+- Overall batsman performance (weighted factor method)-best-performing batsman
+- Overall bowler performance (weighted factor method)-best-performing bowlers
+- City which hosted the maximum number of matches
+- Which team played the maximum number of IPL Matches so far?
+- Matches Won - Batting First vs Bowling First (pie chart)
+- The probability of winning based on the toss decision
