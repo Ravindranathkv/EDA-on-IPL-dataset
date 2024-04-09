@@ -3,9 +3,10 @@ Exploratory Data Analysis on IPL Dataset
 Cricket is a beloved sport that is regarded as the second most popular sport in the world. More than 2.5 billion fans worldwide engage in it. This sport is most popular in England, Australia, and subcontinental Asia (especially in India, Pakistan, and Bangladesh). Being Indians, we have a penchant for cricket that has been entrenched in us since our childhood. The game has evolved over the years in formats and T20 is the most popular format in recent times. The seeds of T20 were laid in 2008 and IPL plays a major role in making the format popular all over the world. There are many factors (controllable and uncontrollable) that contribute to the result of a cricket match. Nowadays, each team carries a Cricket Analyst who dissects the Winning Mantra for the team. Finding out what elements led to a tournament's success and how these factors changed over time motivates selecting this project.
 
 # Types of Questions we wish to Answer:
-The factors that contributed to the team's win in the tournament
-How have these factors evolved over the years and the recent factors that contribute to winning tournament
-Proposal for Data Investigation:
+- The factors that contributed to the team's win in the tournament
+- How have these factors evolved over the years and the recent factors that contribute to winning tournament
+
+# Proposal for Data Investigation:
 Read the data from CSV in the form of DataFrames Join two tables by DataFrame join Look for the missing values, shape, and size of DataFrame, Important columns, and Summary of each column If it's imputable, impute the missing values Use only the required columns for analysis to gain on Data Computation Truncate DataFrame to the period which we are analyzing Aggregate the data on portions wherever required Summarize the overall DataFrame and the truncated data frames to analyze, observe and extract features Use correlation for feature extraction Use plots wherever required for analysis
 
 # TO DO
